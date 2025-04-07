@@ -2,7 +2,7 @@
 
 ## Links
 Notebook: https://github.com/trentrueckert/ml_classification_trentrueckert/blob/main/classification_trentrueckert.ipynb
-Peer review: 
+Peer review: https://github.com/trentrueckert/ml_classification_trentrueckert/blob/main/peer_review.md
 
 ## Preliminary Project Setup
 

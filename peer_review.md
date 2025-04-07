@@ -1,7 +1,7 @@
 # Peer Review
 
 **Name:** Derek Fintel
-**Link:** https://github.com/dfintel25/appliedML_midterm_fintel
+**Link:** https://github.com/dfintel25/appliedML_midterm_fintel/blob/main/ml_classification_fintel.ipynb
 **Dataset:** Kaggle Titanic Dataset
 
 ## Clarity & Organization (Is the notebook structured and easy to follow?)
