@@ -1,5 +1,40 @@
 # ml_classification_trentrueckert
 
+## Links
+Notebook: https://github.com/trentrueckert/ml_classification_trentrueckert/blob/main/classification_trentrueckert.ipynb
+Peer review: 
+
+## Preliminary Project Setup
+
+### Step 1 - Initial Setup
+1. Click "New Repository"
+* Generate name with no spaces
+* Add a "README.md"
+
+2. Clone Repository to machine via VS Code
+* Create folder in "C:\Projects"
+
+3. Install requirements.txt
+4. Setup .gitignore file
+
+### Step 2 - Create Project Virtual Environment
+
+```
+py -m venv .venv
+.venv\Scripts\Activate
+py -m pip install --upgrade pip 
+py -m pip install -r requirements.txt
+```
+
+### Step 3 - Git add, clone, and commit
+
+```
+git add .
+git clone "urlexample"
+git commit -m "Commit Example"
+git push -u origin main
+```
+
 ## Overview
 In this notebook, I will analyze the UIC Banknote Authentication Dataset to predict authenticity by preparing/exploring the data, cleaning the data/handling missing values, performing feature engineering, and training machine learning models based on different selected features. More specifically, I will be using various Decision Tree and Random Forest models to provide insights on all of the features' collective impact on predicting authenticity.
 
